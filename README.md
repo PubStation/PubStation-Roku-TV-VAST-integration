@@ -11,8 +11,9 @@ If you didn't sign up for a PubStation account yet, visit our website at http://
 Integration
 -----------
 
-The first step to show PubStation video ads in your app is to integrate the RAF in your app. If you didn't do that already,
-you can learn how to do that here: [https://sdkdocs.roku.com/display/sdkdoc/Roku+Advertising+Framework]
+The first step to show PubStation video ads in your app is to integrate the RAF in your channel. If you haven't done that yet,
+please have a look at the official documentation of the RAF: https://sdkdocs.roku.com/display/sdkdoc/Roku+Advertising+Framework.
+There, you should find everything which is necessary for integrating the RAF.
 
 Afterwards, login into your PubStation dashboard. Click on the menu point "Integration".
 
@@ -33,3 +34,4 @@ showAds(...)
 
 method of the RAF! :)
 
+If not or if you have any further questions, do not hesitate to get in touch with us!
